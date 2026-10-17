@@ -1,0 +1,4 @@
+movement_class,product_count,recent_units,previous_units,same_season_previous_units,recent_revenue,previous_revenue,products_with_limited_history,products_with_recent_zero_sales
+Fast-moving,1639,1709289.0,981842.0,1424410.0,3572539.02,1890665.04,383,357
+Medium-moving,1639,358598.0,191181.0,435944.0,461273.72,241240.82,125,572
+Slow-moving,1639,41538.0,37900.0,109776.0,62230.502,42348.141,233,754

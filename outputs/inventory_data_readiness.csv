@@ -1,0 +1,10 @@
+capability,status,required_data,current_evidence,limitation
+Historical product movement,Available,Product identifiers and historical sales,Validated product movement analysis,"Describes historical sales, not current stock"
+Demand variability,Available,Daily product demand,Product demand profiles and variability metrics,Historical variability may include seasonal and bulk-order effects
+Historical demand trends,Available,Historical sales with comparable periods,Short-term and same-season trend comparisons,Historical trends do not guarantee future demand
+Current stock on hand,Unavailable,Current product-level stock balances,No stock balance fields found in inspected datasets,Cannot determine actual available inventory
+Supplier lead-time analysis,Unavailable,Supplier and product lead-time records,No lead-time or supplier fields found,Cannot calculate supplier-specific replenishment timing
+Purchase-order tracking,Unavailable,"Purchase orders, quantities, order dates, and receipt dates",No purchase-order dataset identified,Cannot calculate incoming stock or actual replenishment performance
+Actual stockout detection,Unavailable,Stock availability history or explicit stockout records,No stockout or availability fields found,Zero sales does not prove a stockout
+Safety stock and reorder points,Blocked by missing inputs,"Demand estimates, service-level target, and lead-time assumptions",Historical demand metrics available; operational inputs missing,Any numerical result would require explicit assumptions
+Replenishment quantity recommendations,Blocked by missing inputs,"Current stock, incoming orders, demand, and replenishment constraints",Historical demand and review priorities available,Cannot calculate actionable order quantities

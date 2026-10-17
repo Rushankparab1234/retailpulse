@@ -1,0 +1,8 @@
+review_priority,product_count,total_historical_units,total_historical_revenue,recent_units,previous_units,limited_history_products,no_recent_sales_products,high_variability_products,sustained_decline_products,product_share
+Limited history review,741,268349,595426.51,200933.0,234.0,741,496,0,0,0.15070164734594266
+No recent recorded demand,1187,995548,1576491.04,0.0,16177.0,0,1187,400,0,0.24140736221273135
+Sustained decline review,351,1249953,2234751.14,71103.0,149933.0,0,0,72,351,0.0713849908480781
+High demand / growth review,696,4675017,9733039.52,1117249.0,498558.0,0,0,14,0,0.1415497254423429
+Fast-moving review,299,2272969,3781721.46,339590.0,377674.0,0,0,4,0,0.06080943664836282
+Volatility review,554,354323,445582.65,50940.0,21709.0,0,0,554,0,0.11267032743542811
+Routine review,1089,1388989,2109248.128,329610.0,146638.0,0,0,0,0,0.2214765100671141

@@ -1,2 +1,43 @@
-.venv
-.venv311
+# Python environments
+.venv/
+.venv311/
+venv/
+env/
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and local environment variables
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+data/raw/
+
+
+# Temporary validation artifacts
+RetailPulse_validation_bundle.zip
+validation_bundle_files.txt
+
+# Local experiment and model artifacts
+*.keras
+*.h5
+notebooks/*model*.pkl
+notebooks/*scaler*.pkl
