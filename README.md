@@ -74,19 +74,19 @@ The processed datasets and output artifacts support the dashboard pages. Some op
 Explore the RetailPulse dashboards below.
 
 ### Home Dashboard
-![RetailPulse Home Dashboard](screenshots/home.png)
+![RetailPulse Home Dashboard](screenshots/home.PNG)
 
 ### Customer Segmentation
-![Customer Segmentation Dashboard](screenshots/customer-segmentation.png)
+![Customer Segmentation Dashboard](screenshots/customer-segmentation.PNG)
 
 ### Demand Forecasting
-![Demand Forecasting Dashboard](screenshots/demand-forecasting.png)
+![Demand Forecasting Dashboard](screenshots/demand-forecasting.PNG)
 
 ### Inventory Management
-![Inventory Management Dashboard](screenshots/inventory-management.png)
+![Inventory Management Dashboard](screenshots/inventory-management.PNG)
 
 ### Churn Prediction
-![Churn Prediction Dashboard](screenshots/churn-prediction.png)
+![Churn Prediction Dashboard](screenshots/churn-prediction.PNG)
 
 **Live Demo:** [Launch RetailPulse](https://retailpulse-retail-analytics-and-intelligent-dashboard.streamlit.app/)
 
